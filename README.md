@@ -9,4 +9,5 @@ Project Features
   5. View Cart History
   
 <img src=src/com/postgresql/Pic.JPG>
+<img src=src/com/postgresql/Pic2.JPG>
 
